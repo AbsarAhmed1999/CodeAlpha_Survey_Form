@@ -1,0 +1,135 @@
+
+.container{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.Wrapper{
+    margin-top: 25px;
+    width: 80vw;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+
+.headerWrapper{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+.bodyWrapper{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.nameEmail{
+    color: white;
+    font-size: 25px;
+}
+
+.nameEmail input{
+    font-size: 18px;
+}
+
+.item1Wrapper{
+    margin-top: 20px;
+    color: white;
+    font-size: 25px;
+}
+
+.item2Wrapper{
+    margin-top: 55px;
+    font-size: 25px;
+    color: white;
+}
+
+.item3Wrapper{
+    margin-top: 55px;
+    font-size: 25px;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+/* button.item4Wrapper{
+    border: 1px solid black;
+    font-size: 20px;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 400px;
+}
+
+button.item4Wrapper:hover{
+    background-color: blue;
+    color: white;
+} */
+label{
+    cursor: pointer;
+    padding: 0px 10px;
+}
+
+
+
+button.item5Wrapper{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    outline: none;
+    margin-left: 500px;
+    border-radius: 5px;
+}
+
+button.item5Wrapper:hover{
+    font-size: 25px;
+    cursor: pointer;
+    outline: none;
+    background-color: chocolate;
+    color: white;
+}
+
+/*
+This is implemented in Form2module.css 
+input[type='radio']:checked{
+    box-shadow: 0 0 0 1px green;
+} */
+
+input[type='radio']{
+    width: 20px;
+    height: 15px;
+    cursor: pointer;
+}
+input[type='checkbox']{
+    width: 20px;
+    height: 15px;
+}
+
+input[type='checkbox']{
+    accent-color: green;
+}
+
+button.pageTwo{
+    width: 100px;
+    height: 50px;
+    font-size: 18px;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    outline: none;
+    margin-left: 500px;
+    border-radius: 5px;
+}
+
+button.pageTwo:hover{
+    font-size: 24px;
+    cursor: pointer;
+    outline: none;
+    background-color: chocolate;
+    color: white;
+}

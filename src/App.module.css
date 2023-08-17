@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.webPageContainer{
+  background-color: #38297c;
+}
+
+li{
+  margin: 2px;
+  padding: 2px;
+}
